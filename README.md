@@ -1,5 +1,6 @@
 TEK1314-2026-Kel08-Kelas-G2
-Skenario: Endpoint Watchdog (Win)
+
+Skenario: Endpoint Watchdog Win
 __________________________________________________________________________
 | Role              | Nama Anggota                         | NIM         |
 | ----------------- | ------------------------------------ | ----------- |
